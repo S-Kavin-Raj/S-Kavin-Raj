@@ -1,70 +1,80 @@
 <div align="center">
 
 <!-- Typing Animation Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+S.+Kavin+Raj;Full+Stack+Developer+%7C+AI+Enthusiast;Building+Real-World+Software" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=👋+Hey+there!+I'm+S.+Kavin+Raj;🚀+Full+Stack+Developer+%7C+AI+%26+Backend;🛠️+Building+Production-Ready+Software;🌱+Learning+in+Public+%26+Community+Builder" alt="Typing SVG" />
+</a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=S-Kavin-Raj&style=for-the-badge&color=6C63FF" alt="Profile Views"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=S-Kavin-Raj&label=Profile%20Views&style=for-the-badge&color=6C63FF&labelColor=0D1117" alt="Profile Views" />
+  <a href="https://github.com/S-Kavin-Raj?tab=followers">
+    <img src="https://img.shields.io/github/followers/S-Kavin-Raj?label=Followers&style=for-the-badge&logo=github&color=00F2FE&logoColor=white&labelColor=0D1117" alt="Followers" />
+  </a>
+  <a href="https://github.com/S-Kavin-Raj?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-22-6C63FF?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" alt="Repositories" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+### ⚡ Quick About Me
 
 ```yaml
 name: S. Kavin Raj
-role: Full Stack Developer | AI Enthusiast
-education: 3rd Year CSE @ Kathir College of Engineering, Coimbatore
-philosophy: "Build before over-learning"
-current_focus:
-  - 6-month structured backend mastery program
-  - Building and shipping production-oriented applications
-  - Applying to become GDG on Campus organizer
+status: 3rd Year CSE Undergraduate @ Kathir College of Engineering, Coimbatore
+focus: Full-Stack Architecture, Scalable Backend Systems & Computer Vision
+philosophy: "Code, Ship, Learn, Iterate"
+current_sprint:
+  - 6-month intensive backend mastery (Networking, OS, Databases, Distributed Systems)
+  - Applying for GDG on Campus Organizer
 learning_in_public: true
 ```
 
+- 🔭 Currently building scalable APIs, AI pipelines, and cloud-native services.
+- 💡 Winner / Participant across multiple hackathons (**KPR Hackathon**, **SRIT Hackathon**, **Sreenithi Hackathon**).
+- 💬 Ask me about **Node.js, Express, React, Python, Computer Vision (YOLO), and Cloud Architectures**.
+- 📫 Reach me on LinkedIn: [in/s-kavin-raj](https://www.linkedin.com/in/s-kavin-raj/)
+
 ---
 
-## ⚡ Tech Stack
+### 🛠️ Tech Stack & Toolbelt
 
 <div align="center">
 
-#### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" alt="Languages" />
-</p>
-
-#### Frontend
-<p>
+<table>
+<tr>
+<td align="center" width="25%"><strong>Languages</strong></td>
+<td align="center" width="25%"><strong>Frontend</strong></td>
+<td align="center" width="25%"><strong>Backend & DB</strong></td>
+<td align="center" width="25%"><strong>AI, DevOps & Cloud</strong></td>
+</tr>
+<tr>
+<td align="center" valign="top">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css" alt="Languages" />
+</td>
+<td align="center" valign="top">
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="Frontend" />
-</p>
-
-#### Backend & Databases
-<p>
+</td>
+<td align="center" valign="top">
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,firebase" alt="Backend" />
-</p>
-
-#### AI & ML
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLOv8" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
-</p>
-
-#### Tools & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,linux" alt="Tools" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
-</p>
+</td>
+<td align="center" valign="top">
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,postman" alt="DevOps" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-886FBF?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Engineering Projects
 
 <div align="center">
 <table>
@@ -72,77 +82,71 @@ learning_in_public: true
 <td width="50%" valign="top">
 
 ### 🚗 [Drive Legal AI](https://github.com/S-Kavin-Raj/Drive-Legal-Ai)
-AI-powered driving compliance assistant
-
+*AI-Powered Driving Compliance & Legal Assistance Platform*
 `React` `Node.js` `Firebase` `Gemini AI` `Railway`
 
-- Firebase Auth + Firestore
-- Trust score & compliance engine
-- Deployed on Railway
+- 📜 Real-time compliance scoring & vehicle document tracking
+- 🤖 Gemini AI integration for contextual legal queries
+- 🔒 Firebase Authentication & secure cloud database
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎯 [CareerAI Backend](https://github.com/S-Kavin-Raj/CareerAi-backend-)
-Production REST API for AI career guidance
-
+*Production REST API Engine for Career Roadmap & Mentorship*
 `Node.js` `Express` `MongoDB` `JWT` `OpenAI`
 
-- 10+ API route groups
-- Multi-provider AI integration
-- Scheduled jobs & notifications
+- ⚡ 10+ modular API route domains with strict validation
+- 🤖 Multi-LLM provider integration with prompt orchestration
+- ⏱️ Background jobs, notifications & token-bucket rate limiting
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🪖 [Helmet Detection](https://github.com/S-Kavin-Raj/Helmet-Detection)
-Real-time helmet detection via computer vision
-
+### 🪖 [Helmet Detection AI](https://github.com/S-Kavin-Raj/Helmet-Detection)
+*Real-Time Computer Vision Pipeline for Rider Safety Compliance*
 `Python` `Flask` `YOLOv8` `React` `Docker`
 
-- Image, video & webcam detection
-- Docker containerized
-- PDF report export
+- 📹 Supports images, video files, and live webcam feeds
+- ⚡ Sub-second inference latency with YOLOv8 object detection
+- 🐳 Fully containerized with Docker for seamless deployment
 
 </td>
 <td width="50%" valign="top">
 
-### 🚨 [RESQAI](https://github.com/S-Kavin-Raj/KPR-Hackathon)
-AI emergency response platform
-
+### 🚨 [RESQAI Emergency Response](https://github.com/S-Kavin-Raj/KPR-Hackathon)
+*Offline-First AI Emergency Incident Detection & Dispatch*
 `React` `Socket.io` `MongoDB` `IndexedDB`
 
-- Offline-first architecture
-- Real-time dispatch via Socket.io
-- Built at KPR Hackathon
+- 📶 Offline-first persistence via client IndexedDB
+- 📡 Instant emergency responder dispatch using WebSocket streams
+- 🏆 Developed for high-intensity competition at **KPR Hackathon**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 [AgroPulse](https://github.com/S-Kavin-Raj/Agri-Project-)
-Agricultural intelligence platform
-
+### 🌾 [AgroPulse Platform](https://github.com/S-Kavin-Raj/Agri-Project-)
+*Precision Agricultural Intelligence & Crop Advisory System*
 `TypeScript` `React` `Drizzle ORM` `Docker`
 
-- Full-stack monorepo
-- Shared types across packages
-- Built at Sreenithi Hackathon
+- 📦 Production TypeScript monorepo with end-to-end type safety
+- 📊 Market trend analytics, advisory alerts & crop telemetry
+- 🏆 Built during **Sreenithi Hackathon**
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 [Stocker AWS](https://github.com/S-Kavin-Raj/AWS_Project)
-Stock trading simulation on AWS
-
+### 📈 [Stocker AWS Platform](https://github.com/S-Kavin-Raj/AWS_Project)
+*Cloud-Native Distributed Stock Trading Simulation*
 `Python` `Flask` `DynamoDB` `SNS` `Boto3`
 
-- AWS DynamoDB for data storage
-- SNS for notifications
-- Cloud-native architecture
+- ☁️ 100% cloud-native architecture on AWS
+- ⚡ High-throughput transaction storage using Amazon DynamoDB
+- 🔔 Real-time trade event notifications via Amazon SNS
 
 </td>
 </tr>
@@ -151,67 +155,45 @@ Stock trading simulation on AWS
 
 ---
 
-## 🏆 Hackathon Experience
+### 🏆 Hackathon Track Record
 
-| Hackathon | Project | What I Built |
-|-----------|---------|-------------|
-| **KPR Hackathon** | RESQAI | AI emergency detection with real-time dispatch and offline capability |
-| **SRIT Hackathon** | CareerAI | AI career guidance with Firebase, Groq LLM, and quiz generation |
-| **Sreenithi Hackathon** | AgroPulse | Agricultural intelligence platform with TypeScript and Docker |
-
----
-
-## 📚 Current Learning Journey
-
-```
- 6-Month Backend Mastery Program
- ================================
- ✅ Computer Networking
- ✅ Linux & Shell Scripting
- 🔄 Database Design & Optimization
- 🔄 Backend Architecture & REST APIs
- ⬜ Authentication & Security
- ⬜ System Design & Scalability
- ⬜ Cloud Deployment
-```
+| Hackathon | Solution Built | Key Architecture & Tech |
+|-----------|----------------|--------------------------|
+| 🥇 **KPR Hackathon** | **RESQAI** | Offline-first sync with IndexedDB, Socket.io real-time dispatch, automatic false-positive filtering |
+| 🥈 **SRIT Hackathon** | **CareerAI** | Firebase Auth, Groq LLM inference pipeline, personalized career roadmapping engine |
+| 🥉 **Sreenithi Hackathon** | **AgroPulse** | TypeScript full-stack monorepo, Drizzle ORM, Dockerized container orchestration |
 
 ---
 
-## 📊 GitHub Stats
+### 📈 GitHub Analytics & Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=S-Kavin-Raj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Kavin-Raj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=S-Kavin-Raj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=6C63FF&text_color=C9D1D9" height="165" alt="Kavin's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Kavin-Raj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=C9D1D9" height="165" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=S-Kavin-Raj&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=S-Kavin-Raj&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=6C63FF&currStreakLabel=00F2FE" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🌐 Community & Goals
-
-Working toward becoming a **GDG on Campus organizer** at Kathir College of Engineering.  
-Goal: help students learn technology, build projects, and participate in developer communities.
-
----
+### 🌐 Let's Connect
 
 <div align="center">
-
-### Let's Connect
 
 <a href="https://www.linkedin.com/in/s-kavin-raj/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+&nbsp;
 <a href="https://github.com/S-Kavin-Raj/">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=90&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
