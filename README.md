@@ -131,10 +131,22 @@ identity:
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top" align="center">
+<td width="50%" valign="top">
+
+#### 🌾 [AgroPulse](https://github.com/S-Kavin-Raj/Agri-Project-)
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+- 🌾 Agricultural platform for crop advisory & market telemetry
+- 📦 Full-stack TypeScript monorepo with end-to-end type safety
+- 📊 Database schema modeling with Drizzle ORM
+
+</td>
+<td width="50%" valign="top">
 
 #### 📈 [Stocker AWS Platform](https://github.com/S-Kavin-Raj/AWS_Project)
-<br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" />
