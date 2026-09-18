@@ -131,22 +131,10 @@ identity:
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-#### 🌾 [AgroPulse](https://github.com/S-Kavin-Raj/Agri-Project-)
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-
-- 🌾 Agricultural platform for crop advisory & market telemetry
-- 📦 Full-stack TypeScript monorepo with end-to-end type safety
-- 📊 Database schema modeling with Drizzle ORM
-
-</td>
-<td width="50%" valign="top">
+<td colspan="2" valign="top" align="center">
 
 #### 📈 [Stocker AWS Platform](https://github.com/S-Kavin-Raj/AWS_Project)
+<br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" />
@@ -160,16 +148,6 @@ identity:
 </tr>
 </table>
 </div>
-
----
-
-### 🏆 Hackathon Experience
-
-| Event | Project Built | Core Architecture & Highlights |
-| :--- | :--- | :--- |
-| **KPR Hackathon** | **RESQAI** | Offline-first sync with IndexedDB, live incident dispatch via Socket.io |
-| **SRIT Hackathon** | **CareerAI** | Firebase Auth integration, Groq LLM inference, dynamic quiz generation |
-| **Sreenithi Hackathon** | **AgroPulse** | TypeScript full-stack monorepo, database modeling with Drizzle ORM |
 
 ---
 
@@ -207,7 +185,7 @@ identity:
 <br/><br/>
 
 <p align="center">
-  🌱 <em>Applying to become GDG on Campus Organizer @ Kathir College of Engineering</em> • <em>Organizing peer learning & hackathon teams</em>
+  🌱 <em>Applying to become GDG on Campus Organizer @ Kathir College of Engineering</em> • <em>Peer learning & collaborative building</em>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer Banner" />
