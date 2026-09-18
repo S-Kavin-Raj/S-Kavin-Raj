@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/github/followers/S-Kavin-Raj?label=Followers&style=for-the-badge&logo=github&color=00F2FE&logoColor=white&labelColor=0D1117" alt="Followers" />
   </a>
   <a href="https://github.com/S-Kavin-Raj?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-22-6C63FF?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Repositories-21-6C63FF?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" alt="Repositories" />
   </a>
   <a href="https://www.linkedin.com/in/s-kavin-raj/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
